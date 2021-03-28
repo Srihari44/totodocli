@@ -1,0 +1,23 @@
+{
+  "name": "todocli",
+  "version": "1.0.0",
+  "description": "**No external dependancies! Just run it anywhere!**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srihari44/totodocli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srihari44/totodocli/issues"
+  },
+  "homepage": "https://github.com/Srihari44/totodocli#readme",
+  "bin": {
+    "totodocli": "index.js"
+  }
+}
