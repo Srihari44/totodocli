@@ -3,12 +3,12 @@
 const fs = require("fs");
 
 const usage = `Usage :-
-$ ./todo add "todo item"  # Add a new todo
-$ ./todo ls               # Show remaining todos
-$ ./todo del NUMBER       # Delete a todo
-$ ./todo done NUMBER      # Complete a todo
-$ ./todo help             # Show usage
-$ ./todo report           # Statistics
+$ totodocli add "todo item"  # Add a new todo
+$ totodocli ls               # Show remaining todos
+$ totodocli del NUMBER       # Delete a todo
+$ totodocli done NUMBER      # Complete a todo
+$ totodocli help             # Show usage
+$ totodocli report           # Statistics
 `;
 
 const currDir = process.cwd();

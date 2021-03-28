@@ -1,6 +1,6 @@
 {
-  "name": "todocli",
-  "version": "1.0.0",
+  "name": "totodocli",
+  "version": "1.0.1",
   "description": "**No external dependancies! Just run it anywhere!**",
   "main": "index.js",
   "scripts": {
