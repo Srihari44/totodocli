@@ -6,6 +6,4 @@
 
 Only Node.js required. Then, you can directly run,
 
-`shell
-totodocli <command> <args>
-`
+`totodocli <command> <args>`
