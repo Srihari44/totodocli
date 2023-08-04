@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Srihari44/totodocli#readme",
   "bin": {
     "totodocli": "index.js"
-  }
+  },
+  "dependencies": {}
 }
